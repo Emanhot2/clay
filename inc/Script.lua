@@ -4001,6 +4001,7 @@ elseif not msg.SudoUser and Text==" بوت" or Text == "بوت" then
 return 
 sendMsg(msg.chat_id_,msg.id_,nnn[math.random(#nnn)]) 
 elseif Text== "باسل" or Text== "اباظه" then return  sendMsg(msg.chat_id_,msg.id_,"[ملك التلجرام ♕](https://t.me/xb_1b)")
+elseif Text== "عمر عنتر" or Text== "عمر" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس كلاي ♕](https://t.me/Omarantar100)")
 elseif Text== "جوكر" or Text== "جوكر راب" then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد ف التلي ♕](https://t.me/jokerrap1)")
 elseif Text== "هروين" or Text== "بلال" then return  sendMsg(msg.chat_id_,msg.id_,"[مالك السورس](https://t.me/mhzon1)")
 elseif Text== "تسنيم" or Text== "tasnim" then return  sendMsg(msg.chat_id_,msg.id_,"[حيات جوكر بالله](https://t.me/T_A_S_N_I_E_M)")
